@@ -114,9 +114,9 @@ footer {
 .forms {
     max-width: 255px;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid #948d8d;
     border-radius: 10px;
-    background-color: black;
+    background-color: #d2c9c9;
     margin: auto auto;
 }
 
