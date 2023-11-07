@@ -56,9 +56,12 @@ p {
 table {
     table-layout: fixed;
     border-collapse: collapse;
-    border: 3px solid black;
+    border: 3px solid #ece3e3;
     margin: 50px auto 0 auto;
+    background: lightseagreen;
     width: 600px;
+    color: #45098f;
+    transition: 0.25s ease;
 }
 
 th {
